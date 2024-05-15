@@ -4,7 +4,7 @@ I'm interested in Computer Vision with applications to autonomous vehicles, robo
 ## Research
 My current research is in:
 - Machine Learning Accelerated Molecular Dynamics
-- small and full scale autonomous cars
+- Robotics and Autonomous Vehicle Scene Analysis and Decision-making
 - ASL Gesture Recognition
 
 ## Prior Coursework
