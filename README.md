@@ -10,23 +10,24 @@ My current research is in:
 ## Prior Coursework
 Here's some of the courses I've taken while at UCSC.
 ### Computer Science
+
+#### Graduate
+- STAT 206: Applied Bayesian Statistics
+- CSE 290c: Advance Topics in Machine Learning (NeuroSymbolic AI)
+
+#### Upper Division
+- CSE 160/L: Introduction to Computer Graphics
+- CSE 130: Principles of Computer Systems Design
+- CSE 102: Introduction to Analysis of Algorithms
+- CSE 120: Computer Architecture
+- CSE 101: Introduction to Data Structures and Algorithms
+- CSE 107: Probability and Statistics for Engineers
+
 #### Lower Division
 - CSE 30: Programming Abstractions in Python
 - CSE 12: Computer Systems and Assembly
 - CSE 13s: Computer Systems and C Programming
 - ECE 30: Engineering Principles of Electronics
-
-#### Upper Division
-- CSE 101: Introduction to Data Structures and Algorithms
-- CSE 107: Probability and Statistics for Engineers
-- CSE 120: Computer Architecture
-- CSE 102: Introduction to Analysis of Algorithms
-- CSE 130: Principles of Computer Systems Design
-- CSE 160/L: Introduction to Computer Graphics
-
-#### Graduate
-- STAT 206: Applied Bayesian Statistics
-- CSE 290c: Advance Topics in Machine Learning (NeuroSymbolic AI)
 
 
 ### Mathematics
