@@ -31,13 +31,14 @@ Here's some of the courses I've taken while at UCSC.
 
 
 ### Mathematics
+- MATH 105a: Real Analysis
+- MATH 115: Graph Theory
 - MATH 19a: Calculus I
 - MATH 19b: Calculus II
 - MATH 21: Linear Algebra
 - MATH 23a: Vector Calculus I
 - MATH 23b: Vector Calculus II
 - MATH 100: Introduction to Proof and Problem Solving
-- MATH 105a: Real Analysis (Planned Fall 2024)
 
 <!-- ## Planned Coursework
 ### Computer Science
