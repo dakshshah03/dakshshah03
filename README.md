@@ -1,5 +1,5 @@
 Hi there! I am Daksh Shah, a second year Computer Science/Math major at UC Santa Cruz.
-I'm interested in Computer Vision with applications to autonomous vehicles, robotics, and accessibility. I also enjoy systems programming and computer architecture.
+I'm interested in Computer Vision and Graphics with applications to medical imaging, autonomous vehicles, robotics, and accessibility. I also enjoy systems programming and computer architecture.
 
 ## Research
 My current research is in:
@@ -38,7 +38,10 @@ Here's some of the courses I've taken while at UCSC.
 - MATH 21: Linear Algebra
 - MATH 23a: Vector Calculus I
 - MATH 23b: Vector Calculus II
+- MATH 24: Ordinary Differential Equations
 - MATH 100: Introduction to Proof and Problem Solving
+- MATH 105a: Real Analysis I
+- MATH 115: Graph Theory
 
 <!-- ## Planned Coursework
 ### Computer Science
