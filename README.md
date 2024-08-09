@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=dakshshah03)
+![](https://komarev.com/ghpvc/?username=dakshshah03) <br>
 Hi there! I am Daksh Shah, a second year Computer Science/Math major at UC Santa Cruz.
 I'm interested in Computer Vision and Graphics with applications to medical imaging, autonomous vehicles, robotics, and accessibility. I also enjoy systems programming and computer architecture.
 
