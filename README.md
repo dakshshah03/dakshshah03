@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=dakshshah03)
-[![spotify](https://api.statusbadges.me/badge/spotify/313141511141195777)](https://api.statusbadges.me/openspotify/313141511141195777)
-![status](https://api.statusbadges.me/badge/status/313141511141195777?simple=true&style=for-the-badge) <br>
+[![spotify](https://api.statusbadges.me/badge/spotify/313141511141195777)](https://api.statusbadges.me/openspotify/313141511141195777) <br>
 
 
 Hi there! I am Daksh Shah, a second year Computer Science/Math major at UC Santa Cruz.
