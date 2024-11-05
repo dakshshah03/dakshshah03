@@ -16,8 +16,10 @@ Here's some of the courses I've taken while at UCSC.
 ### Computer Science
 
 #### Graduate
-- STAT 206: Applied Bayesian Statistics
+- CSE 240: Artificial Intelligence
 - CSE 290c: Advance Topics in Machine Learning (NeuroSymbolic AI)
+- CSE 290c: Advance Topics in Machine Learning (Differentiable Programming)
+- STAT 206: Applied Bayesian Statistics
 
 #### Upper Division
 - CSE 160/L: Introduction to Computer Graphics
@@ -35,17 +37,15 @@ Here's some of the courses I've taken while at UCSC.
 
 
 ### Mathematics
-- MATH 105a: Real Analysis
+- MATH 105a: Real Analysis I
 - MATH 115: Graph Theory
+- MATH 100: Introduction to Proof and Problem Solving
 - MATH 19a: Calculus I
 - MATH 19b: Calculus II
 - MATH 21: Linear Algebra
 - MATH 23a: Vector Calculus I
 - MATH 23b: Vector Calculus II
 - MATH 24: Ordinary Differential Equations
-- MATH 100: Introduction to Proof and Problem Solving
-- MATH 105a: Real Analysis I
-- MATH 115: Graph Theory
 
 <!-- ## Planned Coursework
 ### Computer Science
