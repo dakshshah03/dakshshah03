@@ -7,7 +7,7 @@ I'm interested in Computer Vision and Graphics with applications to medical imag
 
 ## Research
 My current research is in:
-- Machine Learning Accelerated Molecular Dynamics
+- MRI Differentiable Simulators and Medical Imaging
 - Robotics with Autonomous Vehicle Scene Analysis and Decision-making
 - ASL Gesture Recognition
 
