@@ -23,9 +23,12 @@ Here's some of the courses I've taken while at UCSC.
 
 #### Upper Division
 - CSE 160/L: Introduction to Computer Graphics
+- CSE 138: Distributed Systems
+- CSE 144: Applied Machine Learning: Deep Learning
 - CSE 130: Principles of Computer Systems Design
 - CSE 102: Introduction to Analysis of Algorithms
 - CSE 120: Computer Architecture
+- CSE 103: Computational Models
 - CSE 101: Introduction to Data Structures and Algorithms
 - CSE 107: Probability and Statistics for Engineers
 
