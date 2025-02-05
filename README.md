@@ -10,17 +10,18 @@ My current research is in:
 - MRI Differentiable Simulators and Medical Imaging
 - Robotics with Autonomous Vehicle Scene Analysis and Decision-making
 - ASL Gesture Recognition
-<details open>
-  <summary>Prior Coursework</summary>
+## Prior Coursework
   Here's some of the courses I've taken while at UCSC.
   <details open>
     <summary> Computer Science</summary>
-    <details closed>
+    <details open>
       <summary> <big> Graduate </big> </summary>
-      - CSE 240: Artificial Intelligence
-      - CSE 290c: Advance Topics in Machine Learning (NeuroSymbolic AI)
-      - CSE 290c: Advance Topics in Machine Learning (Differentiable Programming)
-      - STAT 206: Applied Bayesian Statistics
+      <ul>
+        <li>CSE 240: Artificial Intelligence</li>
+        <li>CSE 290c: Advanced Topics in Machine Learning (NeuroSymbolic AI)</li>
+        <li>CSE 290c: Advanced Topics in Machine Learning (Differentiable Programming)</li>
+        <li>STAT 206: Applied Bayesian Statistics</li>
+      </ul>
     </details>
     <details closed>
       <summary> Upper Division </summary>
@@ -49,14 +50,15 @@ My current research is in:
   
   <details open>
     <summary> Mathematics</summary>
-    - MATH 105a: Real Analysis I
-    - MATH 115: Graph Theory
-    - MATH 100: Introduction to Proof and Problem Solving
-    - MATH 19a: Calculus I
-    - MATH 19b: Calculus II
-    - MATH 21: Linear Algebra
-    - MATH 23a: Vector Calculus I
-    - MATH 23b: Vector Calculus II
-    - MATH 24: Ordinary Differential Equations
+    <ul>
+      <li>MATH 105a: Real Analysis I</li>
+      <li>MATH 115: Graph Theory</li>
+      <li>MATH 100: Introduction to Proof and Problem Solving</li>
+      <li>MATH 19a: Calculus I</li>
+      <li>MATH 19b: Calculus II</li>
+      <li>MATH 21: Linear Algebra</li>
+      <li>MATH 23a: Vector Calculus I</li>
+      <li>MATH 23b: Vector Calculus II</li>
+      <li>MATH 24: Ordinary Differential Equations</li>
+    </ul>
   </details>
-</details>
