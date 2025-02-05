@@ -12,6 +12,11 @@ My current research is in:
 - ASL Gesture Recognition
 ## Prior Coursework
   Here's some of the courses I've taken while at UCSC.
+### Personal Favorites:
+- CSE 160/L: Introduction to Computer Graphics
+- CSE 138: Distributed Systems
+- CSE 240: Artificial Intelligence
+- MATH 105a: Real Analysis I
 ### Computer Science
 <details open>
   <summary> <big> Graduate </big> </summary>
@@ -22,7 +27,7 @@ My current research is in:
     <li>STAT 206: Applied Bayesian Statistics</li>
   </ul>
 </details>
-<details closed>
+<details open>
   <summary> Upper Division </summary>
   <ul>
     <li>CSE 160/L: Introduction to Computer Graphics</li>
