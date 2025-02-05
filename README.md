@@ -16,9 +16,11 @@ My current research is in:
 - CSE 160/L: Introduction to Computer Graphics
 - CSE 138: Distributed Systems
 - CSE 240: Artificial Intelligence
+- CSE 290c: Advance Topics in Machine Learning (NeuroSymbolic AI)
+- CSE 290c: Advance Topics in Machine Learning (Differentiable Programming)
 - MATH 105a: Real Analysis I
 ### Computer Science
-<details open>
+<details closed>
   <summary> <big> Graduate </big> </summary>
   <ul>
     <li>CSE 240: Artificial Intelligence</li>
@@ -27,7 +29,7 @@ My current research is in:
     <li>STAT 206: Applied Bayesian Statistics</li>
   </ul>
 </details>
-<details open>
+<details closed>
   <summary> Upper Division </summary>
   <ul>
     <li>CSE 160/L: Introduction to Computer Graphics</li>
