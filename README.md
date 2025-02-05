@@ -16,7 +16,7 @@ My current research is in:
   <details open>
     <summary> Computer Science</summary>
     <details closed>
-      <summary> Graduate </summary>
+      <summary> <big> Graduate </big> </summary>
       - CSE 240: Artificial Intelligence
       - CSE 290c: Advance Topics in Machine Learning (NeuroSymbolic AI)
       - CSE 290c: Advance Topics in Machine Learning (Differentiable Programming)
