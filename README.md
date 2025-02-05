@@ -14,16 +14,16 @@ My current research is in:
   <summary>Prior Coursework</summary>
   Here's some of the courses I've taken while at UCSC.
   <details open>
-    <summary> ### Computer Science</summary>
+    <summary> Computer Science</summary>
     <details closed>
-      <summary> #### Graduate </summary>
+      <summary> Graduate </summary>
       - CSE 240: Artificial Intelligence
       - CSE 290c: Advance Topics in Machine Learning (NeuroSymbolic AI)
       - CSE 290c: Advance Topics in Machine Learning (Differentiable Programming)
       - STAT 206: Applied Bayesian Statistics
     </details>
     <details closed>
-      <summary> #### Upper Division </summary>
+      <summary> Upper Division </summary>
       - CSE 160/L: Introduction to Computer Graphics
       - CSE 138: Distributed Systems
       - CSE 144: Applied Machine Learning: Deep Learning
@@ -35,7 +35,7 @@ My current research is in:
       - CSE 107: Probability and Statistics for Engineers
     </details>
     <details closed>
-      <summary> #### Lower Division </summary>
+      <summary> Lower Division </summary>
       - CSE 30: Programming Abstractions in Python
       - CSE 12: Computer Systems and Assembly
       - CSE 13s: Computer Systems and C Programming
@@ -44,7 +44,7 @@ My current research is in:
   </details>
   
   <details open>
-    <summary>  ### Mathematics</summary>
+    <summary> Mathematics</summary>
     - MATH 105a: Real Analysis I
     - MATH 115: Graph Theory
     - MATH 100: Introduction to Proof and Problem Solving
