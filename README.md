@@ -24,22 +24,26 @@ My current research is in:
     </details>
     <details closed>
       <summary> Upper Division </summary>
-      - CSE 160/L: Introduction to Computer Graphics
-      - CSE 138: Distributed Systems
-      - CSE 144: Applied Machine Learning: Deep Learning
-      - CSE 130: Principles of Computer Systems Design
-      - CSE 102: Introduction to Analysis of Algorithms
-      - CSE 120: Computer Architecture
-      - CSE 103: Computational Models
-      - CSE 101: Introduction to Data Structures and Algorithms
-      - CSE 107: Probability and Statistics for Engineers
+      <ul>
+        <li>CSE 160/L: Introduction to Computer Graphics</li>
+        <li>CSE 138: Distributed Systems</li>
+        <li>CSE 144: Applied Machine Learning: Deep Learning</li>
+        <li>CSE 130: Principles of Computer Systems Design</li>
+        <li>CSE 102: Introduction to Analysis of Algorithms</li>
+        <li>CSE 120: Computer Architecture</li>
+        <li>CSE 103: Computational Models</li>
+        <li>CSE 101: Introduction to Data Structures and Algorithms</li>
+        <li>CSE 107: Probability and Statistics for Engineers</li>
+      </ul>
     </details>
     <details closed>
       <summary> Lower Division </summary>
-      - CSE 30: Programming Abstractions in Python
-      - CSE 12: Computer Systems and Assembly
-      - CSE 13s: Computer Systems and C Programming
-      - ECE 30: Engineering Principles of Electronics
+      <ul>
+        <li>CSE 30: Programming Abstractions in Python</li>
+        <li>CSE 12: Computer Systems and Assembly</li>
+        <li>CSE 13s: Computer Systems and C Programming</li>
+        <li>ECE 30: Engineering Principles of Electronics</li>
+      </ul>
     </details>
   </details>
   
