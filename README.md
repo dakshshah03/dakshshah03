@@ -2,7 +2,7 @@
 [![spotify](https://api.statusbadges.me/badge/spotify/313141511141195777)](https://api.statusbadges.me/openspotify/313141511141195777) <br>
 
 
-Hi there! I am Daksh Shah, a third year Computer Science/Math major at UC Santa Cruz.
+Hi there! I am Daksh Shah, a third year Computer Science/Math major at UC Santa Cruz. I am part of the instructional staff for CSE 160: Computer Graphics and have a wide variety of research interests.
 I'm interested in Computer Vision and Graphics with applications to AR/VR, medical imaging, autonomous vehicles, robotics, and accessibility. A lot of my current work involved 3D Reconstruction with Gaussian Splatting.
 
 ## Research
