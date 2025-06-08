@@ -67,6 +67,7 @@ My prior research was in:
 <details closed>
   <ul>
     <li>MATH 105a: Real Analysis I</li>
+    <li>MATH 105a: MATH 117: Advanced Linear Algebra</li>
     <li>MATH 115: Graph Theory</li>
     <li>MATH 100: Introduction to Proof and Problem Solving</li>
     <li>MATH 19a: Calculus I</li>
