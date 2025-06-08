@@ -3,7 +3,7 @@
 
 
 Hi there! I am Daksh Shah, a third year Computer Science/Math major at UC Santa Cruz.
-I'm interested in Computer Vision and Graphics with applications to AR/VR medical imaging, autonomous vehicles, robotics, and accessibility. I also enjoy systems programming and computer architecture.
+I'm interested in Computer Vision and Graphics with applications to AR/VR, medical imaging, autonomous vehicles, robotics, and accessibility. A lot of my current work involved 3D Reconstruction with Gaussian Splatting.
 
 ## Research
 My current research is in:
@@ -32,6 +32,8 @@ My prior research was in:
   <summary> <big> Graduate </big> </summary>
   <ul>
     <li>CSE 240: Artificial Intelligence</li>
+    <li>CSE 242: Machine Learning</li>
+    <li>CSE 244c: Advanced Computer Vision</li>
     <li>CSE 290c: Advanced Topics in Machine Learning (NeuroSymbolic AI)</li>
     <li>CSE 290c: Advanced Topics in Machine Learning (Differentiable Programming)</li>
     <li>STAT 206: Applied Bayesian Statistics</li>
