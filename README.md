@@ -23,8 +23,8 @@ My prior research was in:
 - CSE 240: Artificial Intelligence
 - CSE 242: Machine Learning
 - CSE 244c: Advanced Computer Vision
-- CSE 290c: Advance Topics in Machine Learning (NeuroSymbolic AI)
-- CSE 290c: Advance Topics in Machine Learning (Differentiable Programming)
+- CSE 290c: Advanced Topics in Machine Learning (NeuroSymbolic AI)
+- CSE 290c: Advanced Topics in Machine Learning (Differentiable Programming)
 - MATH 105a: Real Analysis I
 - MATH 117: Advanced Linear Algebra
 ### Computer Science
@@ -46,11 +46,12 @@ My prior research was in:
     <li>CSE 138: Distributed Systems</li>
     <li>CSE 144: Applied Machine Learning: Deep Learning</li>
     <li>CSE 130: Principles of Computer Systems Design</li>
-    <li>CSE 102: Introduction to Analysis of Algorithms</li>
     <li>CSE 120: Computer Architecture</li>
-    <li>CSE 103: Computational Models</li>
-    <li>CSE 101: Introduction to Data Structures and Algorithms</li>
+    <li>CSE 114a: Foundations of Programming Languages</li>
     <li>CSE 107: Probability and Statistics for Engineers</li>
+    <li>CSE 103: Computational Models</li>
+    <li>CSE 102: Introduction to Analysis of Algorithms</li>
+    <li>CSE 101: Introduction to Data Structures and Algorithms</li>
   </ul>
 </details>
 <details closed>
@@ -66,8 +67,8 @@ My prior research was in:
 ### Mathematics
 <details closed>
   <ul>
+    <li>MATH 117: Advanced Linear Algebra</li>
     <li>MATH 105a: Real Analysis I</li>
-    <li>MATH 105a: MATH 117: Advanced Linear Algebra</li>
     <li>MATH 115: Graph Theory</li>
     <li>MATH 100: Introduction to Proof and Problem Solving</li>
     <li>MATH 19a: Calculus I</li>
