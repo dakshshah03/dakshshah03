@@ -17,16 +17,20 @@ My prior research was in:
 <details closed>
   <summary> <big> Prior Coursework </big> </summary>
   Here's some of the courses I've taken while at UCSC.
+  
   ### Personal Favorites:
-  - CSE 160/L: Introduction to Computer Graphics
-  - CSE 138: Distributed Systems
-  - CSE 240: Artificial Intelligence
-  - CSE 242: Machine Learning
-  - CSE 244c: Advanced Computer Vision
-  - CSE 290c: Advanced Topics in Machine Learning (NeuroSymbolic AI)
-  - CSE 290c: Advanced Topics in Machine Learning (Differentiable Programming)
-  - MATH 105a: Real Analysis I
-  - MATH 117: Advanced Linear Algebra
+  <ul>
+    <li>CSE 160/L: Introduction to Computer Graphics</li>
+    <li>CSE 138: Distributed Systems</li>
+    <li>CSE 240: Artificial Intelligence</li>
+    <li>CSE 242: Machine Learning</li>
+    <li>CSE 244c: Advanced Computer Vision</li>
+    <li>CSE 290c: Advanced Topics in Machine Learning (NeuroSymbolic AI)</li>
+    <li>CSE 290c: Advanced Topics in Machine Learning (Differentiable Programming)</li>
+    <li>MATH 105a: Real Analysis I</li>
+    <li>MATH 117: Advanced Linear Algebra</li>
+  </ul>
+  
   ### Computer Science
   <details closed>
     <summary> <big> Graduate </big> </summary>
@@ -66,17 +70,26 @@ My prior research was in:
   
   ### Mathematics
   <details closed>
+    <summary> Graduate/Upper Division </summary>
     <ul>
+      <li>STAT 206: Applied Bayesian Statistics</li>
       <li>MATH 117: Advanced Linear Algebra</li>
       <li>MATH 105a: Real Analysis I</li>
       <li>MATH 115: Graph Theory</li>
       <li>MATH 100: Introduction to Proof and Problem Solving</li>
-      <li>MATH 19a: Calculus I</li>
-      <li>MATH 19b: Calculus II</li>
+    </ul>
+  </details>
+
+  <details closed>
+    <summary> Lower Division </summary>
+    <ul>
+      <li>MATH 24: Ordinary Differential Equations</li>
       <li>MATH 21: Linear Algebra</li>
       <li>MATH 23a: Vector Calculus I</li>
       <li>MATH 23b: Vector Calculus II</li>
-      <li>MATH 24: Ordinary Differential Equations</li>
+      <li>MATH 19a: Calculus I</li>
+      <li>MATH 19b: Calculus II</li>
     </ul>
   </details>
+  
 </details>
