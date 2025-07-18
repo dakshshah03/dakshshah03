@@ -1,9 +1,4 @@
-<style>
-  box {
-    display: flex;
-    justify-content: space-between;
-  }
-</style>
+
 ![](https://komarev.com/ghpvc/?username=dakshshah03)
 [![spotify](https://api.statusbadges.me/badge/spotify/313141511141195777)](https://api.statusbadges.me/openspotify/313141511141195777) <br>
 
@@ -18,17 +13,32 @@ I'm interested in ML/CV, Computer Graphics, distributed/operating systems, and s
 - Instructional staff for CSE 160: Computer Graphics
 
 ### Tools/Skills
-<div class="box">
-  <img src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" height="40">
-  <img src="https://github.com/onnx/onnx/raw/main/docs/onnx-horizontal-color.png" height="40">
-  <img src="https://lightning.ai/static/media/lightning-light.7f7e28493fb04c9626723e3ae593bebe.svg" height=40>
-  <img src="https://www.khronos.org/assets/images/api_logos/webgl_wht.svg" height=40>
-</div>
+#### Languages
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height=60 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height=60 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=60 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=60 />
+</p>
+
+#### Frameworks
+<p float="left">
+  <img src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" height="40" />
+  <img src="https://github.com/onnx/onnx/raw/main/docs/onnx-horizontal-color.png" height="40" />
+  <img src="https://lightning.ai/static/media/lightning-light.7f7e28493fb04c9626723e3ae593bebe.svg" height=40 />
+  <img src="https://www.khronos.org/assets/images/api_logos/webgl_wht.svg" height=40 />
+</p>
+
+#### Dev Tools
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="60"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="60" />
+  <img src="https://github.com/kubeflow/marketing-materials/blob/master/logos/Raster/Kubeflow-Logo-RGB.png?raw=true" height=60 />
+  <img src="https://mlflow.org/docs/latest/api_reference/_static/MLflow-logo-final-black.png" height=60 />
 </p>
+
 I work with computer vision/graphics applied to AR/VR, medical imaging, autonomous vehicles, robotics, and accessibility. <br>
 A lot of my current work involved 3D Reconstruction with Gaussian Splatting.
 ## Research
