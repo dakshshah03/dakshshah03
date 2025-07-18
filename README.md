@@ -4,13 +4,13 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
-Hi there! <br>
-I like making the machine *learn*. Also photography! (check it out [here](https://www.instagram.com/dsunvaulted/)) <br>
+Hi there!
+I like making the machine *learn*. Also photography! (check it out [here](https://www.instagram.com/dsunvaulted/)) 
 I'm interested in ML/CV, Computer Graphics, distributed/operating systems, and software development
 
 - Computer Science & Mathematics Theory & Computation @ UC Santa Cruz
-- Currently building [SLT](https://github.com/dakshshah03/SLT), a gesture recognizer for ASL Sign Language Translation using 🔥Pytorch, 😄Huggingface Transformers, ⚡Pytorch Lightning, 🔵Kubeflow, 💧MLflow, and ⚫ONNX
 - Instructional staff for CSE 160: Computer Graphics
+- <u>**Currently building**</u>  [SLT](https://github.com/dakshshah03/SLT), a gesture recognizer for ASL Sign Language Translation using 🔥Pytorch, 😄Huggingface Transformers, ⚡Pytorch Lightning, Kubeflow, MLflow, and ONNX. 
 
 ### Tools/Skills
 #### Languages
@@ -21,26 +21,37 @@ I'm interested in ML/CV, Computer Graphics, distributed/operating systems, and s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=60 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height=60 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height=60 />
 </p>
 
-#### Frameworks
+#### Frameworks/Libraries
 <p float="left">
-  <img src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" height="40" />
-  <img src="https://github.com/onnx/onnx/raw/main/docs/onnx-horizontal-color.png" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" />
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" height=40>
+  <img src="./images/angular_gradient.png" height=40 />
+  <img src="https://nodejs.org/static/logos/jsIconGreen.svg" height=40>
   <img src="https://lightning.ai/static/media/lightning-light.7f7e28493fb04c9626723e3ae593bebe.svg" height=40 />
   <img src="https://www.khronos.org/assets/images/api_logos/webgl_wht.svg" height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" height=40 />
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" height=40>
 </p>
 
-#### Dev Tools
+#### Dev Tools/Other
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="60"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height=60>
   <img src="https://github.com/kubeflow/marketing-materials/blob/master/logos/Raster/Kubeflow-Logo-RGB.png?raw=true" height=60 />
   <img src="https://mlflow.org/docs/latest/api_reference/_static/MLflow-logo-final-black.png" height=60 />
+  <img src="https://github.com/onnx/onnx/raw/main/docs/onnx-horizontal-color.png" height="60" />
 </p>
 
 I work with computer vision/graphics applied to AR/VR, medical imaging, autonomous vehicles, robotics, and accessibility. <br>
 A lot of my current work involved 3D Reconstruction with Gaussian Splatting.
+<details closed>
+<summary> <big> More Details </big></summary>
 ## Research
 My current research is in:
 - Medical Imaging and 3D Reconstruction
@@ -50,7 +61,7 @@ My prior research was in:
 - Molecular Dynamics
 - Robotics with Autonomous Vehicle Scene Analysis and Decision-making
 - ASL Gesture Recognition
-
+<!-- <details closed> -->
   <summary> <big> Prior Coursework </big> </summary>
   Here's some of the courses I've taken while at UCSC.
   
@@ -66,7 +77,8 @@ My prior research was in:
     <li>MATH 105a: Real Analysis I</li>
     <li>MATH 117: Advanced Linear Algebra</li>
   </ul>
-  
+</details>
+
 <!--  ### Computer Science
   <details closed>
     <summary> <big> Graduate </big> </summary>
