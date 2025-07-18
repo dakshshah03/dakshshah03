@@ -1,9 +1,36 @@
+<style>
+  box {
+    display: flex;
+    justify-content: space-between;
+  }
+</style>
 ![](https://komarev.com/ghpvc/?username=dakshshah03)
 [![spotify](https://api.statusbadges.me/badge/spotify/313141511141195777)](https://api.statusbadges.me/openspotify/313141511141195777) <br>
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
-Hi there! I am Daksh Shah, a third year Computer Science/Math major at UC Santa Cruz. I am part of the instructional staff for CSE 160: Computer Graphics and have a wide variety of research interests.
-I'm interested in Computer Vision and Graphics with applications to AR/VR, medical imaging, autonomous vehicles, robotics, and accessibility. A lot of my current work involved 3D Reconstruction with Gaussian Splatting.
+Hi there! <br>
+I like making the machine *learn*. Also photography! (check it out [here](https://www.instagram.com/dsunvaulted/)) <br>
+I'm interested in ML/CV, Computer Graphics, distributed/operating systems, and software development
+
+- Computer Science & Mathematics Theory & Computation @ UC Santa Cruz
+- Currently building [SLT](https://github.com/dakshshah03/SLT), a gesture recognizer for ASL Sign Language Translation using 🔥Pytorch, 😄Huggingface Transformers, ⚡Pytorch Lightning, 🔵Kubeflow, 💧MLflow, and ⚫ONNX
+- Instructional staff for CSE 160: Computer Graphics
+
+### Tools/Skills
+<div class="box">
+  <img src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" height="40">
+  <img src="https://github.com/onnx/onnx/raw/main/docs/onnx-horizontal-color.png" height="40">
+  <img src="https://lightning.ai/static/media/lightning-light.7f7e28493fb04c9626723e3ae593bebe.svg" height=40>
+  <img src="https://www.khronos.org/assets/images/api_logos/webgl_wht.svg" height=40>
+</div>
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="60" />
+</p>
+I work with computer vision/graphics applied to AR/VR, medical imaging, autonomous vehicles, robotics, and accessibility. <br>
+A lot of my current work involved 3D Reconstruction with Gaussian Splatting.
 ## Research
 My current research is in:
 - Medical Imaging and 3D Reconstruction
@@ -14,7 +41,6 @@ My prior research was in:
 - Robotics with Autonomous Vehicle Scene Analysis and Decision-making
 - ASL Gesture Recognition
 
-<details closed>
   <summary> <big> Prior Coursework </big> </summary>
   Here's some of the courses I've taken while at UCSC.
   
@@ -31,7 +57,7 @@ My prior research was in:
     <li>MATH 117: Advanced Linear Algebra</li>
   </ul>
   
-  ### Computer Science
+<!--  ### Computer Science
   <details closed>
     <summary> <big> Graduate </big> </summary>
     <ul>
@@ -91,5 +117,4 @@ My prior research was in:
       <li>MATH 19b: Calculus II</li>
     </ul>
   </details>
-  
-</details>
+  -->
