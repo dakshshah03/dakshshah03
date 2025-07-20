@@ -35,7 +35,6 @@ I'm interested in ML/CV, Computer Graphics, distributed/operating systems, and s
   <img src="https://www.khronos.org/assets/images/api_logos/webgl_wht.svg" height=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" height=40 />
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" height=40>
 </p>
 
 #### Dev Tools/Other
