@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=dakshshah03)
 [![spotify](https://api.statusbadges.me/badge/spotify/313141511141195777)](https://api.statusbadges.me/openspotify/313141511141195777) <br>
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
 Hi there!
 I like making the machine *learn*. Also photography! (check it out [here](https://www.instagram.com/dsunvaulted/)) 
@@ -17,7 +16,7 @@ I'm interested in ML/CV, Computer Graphics, distributed/operating systems, and s
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height=60 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=60 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=60 />
@@ -28,13 +27,14 @@ I'm interested in ML/CV, Computer Graphics, distributed/operating systems, and s
 #### Frameworks/Libraries
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" />
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" height=40>
+  <img src="https://camo.githubusercontent.com/4ebb06d037b495f2c4c67e0ee4599f747e94e6323ece758a7da27fbbcb411250/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"  height=40 />
   <img src="./images/angular_gradient.png" height=40 />
   <img src="https://nodejs.org/static/logos/jsIconGreen.svg" height=40>
   <img src="https://lightning.ai/static/media/lightning-light.7f7e28493fb04c9626723e3ae593bebe.svg" height=40 />
   <img src="https://www.khronos.org/assets/images/api_logos/webgl_wht.svg" height=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" height=40 />
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" height=40>
 </p>
 
 #### Dev Tools/Other
