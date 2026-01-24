@@ -5,11 +5,12 @@
 
 Hi there!
 I like making the machine *learn*. Also photography! (check it out [here](https://www.instagram.com/dsunvaulted/)) 
-I'm interested in ML/CV, Computer Graphics, distributed/operating systems, and software development
+I'm interested in ML/CV and Computer Graphics, especially in 3D understanding and sparse-view 2D to 3D reconstruction. 
 
 - Computer Science & Mathematics Theory & Computation @ UC Santa Cruz
 - Instructional staff for CSE 160: Computer Graphics
-- <u>**Currently building**</u>  [SLT](https://github.com/dakshshah03/SLT), a gesture recognizer for ASL Sign Language Translation using 🔥Pytorch, 😄Huggingface Transformers, ⚡Pytorch Lightning, Kubeflow, MLflow, and ONNX. 
+- Senior Thesis: Sparse-view CT reconstruction using unsupervised material grouping for novel view synthesis.
+[- <u>**Currently building**</u>  [SLT](https://github.com/dakshshah03/SLT), a gesture recognizer for ASL Sign Language Translation using 🔥Pytorch, 😄Huggingface Transformers, ⚡Pytorch Lightning, Kubeflow, MLflow, and ONNX. ]:
 
 ### Tools/Skills
 #### Languages
