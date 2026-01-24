@@ -10,7 +10,6 @@ I'm interested in ML/CV and Computer Graphics, especially in 3D understanding an
 - Computer Science & Mathematics Theory & Computation @ UC Santa Cruz
 - Instructional staff for CSE 160: Computer Graphics
 - Senior Thesis: Sparse-view CT reconstruction using unsupervised material grouping for novel view synthesis.
-[- <u>**Currently building**</u>  [SLT](https://github.com/dakshshah03/SLT), a gesture recognizer for ASL Sign Language Translation using 🔥Pytorch, 😄Huggingface Transformers, ⚡Pytorch Lightning, Kubeflow, MLflow, and ONNX. ]:
 
 ### Tools/Skills
 #### Languages
