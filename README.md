@@ -61,7 +61,7 @@ My prior research was in:
 - Molecular Dynamics
 - Robotics with Autonomous Vehicle Scene Analysis and Decision-making
 - ASL Gesture Recognition
-<!-- <details closed> -->
+<!-- <details closed> 
   <summary> <big> Prior Coursework </big> </summary>
   Here's some of the courses I've taken while at UCSC.
   
