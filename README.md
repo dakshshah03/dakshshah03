@@ -7,10 +7,11 @@ Hi there!
 I like making the machine *learn*. Also photography! (check it out [here](https://www.instagram.com/dsunvaulted/)) 
 I'm interested in ML/CV and Computer Graphics, especially in 3D understanding and sparse-view 2D to 3D reconstruction. 
 
-- Computer Science & Mathematics Theory & Computation @ UC Santa Cruz
+- Computer Science & Mathematics Theory & Computation @ UC Santa Cruz '26
+- Computer Science MS @ NYU Courant '28
 - Instructional staff for CSE 160: Computer Graphics
-- Senior Thesis: Sparse-view CT reconstruction using unsupervised material grouping for novel view synthesis.
-
+- Senior Thesis: K-Material SDFs for Neural Attenuation Fields (Winner of the 2026 Dean's and Chancellor's Undergraduate Research Awards)
+<!--
 ### Tools/Skills
 #### Languages
 <p float="left">
@@ -77,6 +78,7 @@ My prior research was in:
     <li>MATH 117: Advanced Linear Algebra</li>
   </ul>
 </details>
+-->
 
 <!--  ### Computer Science
   <details closed>
